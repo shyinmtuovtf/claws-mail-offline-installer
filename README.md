@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Email+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Claws Mail Free Installer** — Claws Mail is a free, open-source, fast, and lightweight email client for Windows and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Claws Mail Free Installer** — Claws Mail is a free, fast, lightweight email client for Windows and Linux with extensive plugin support, PGP encryption integration, and a highly configurable interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Claws Mail
 
-Claws Mail is a free, open-source, fast, and lightweight email client for Windows and Linux. Based on GTK, Claws Mail emphasizes speed, stability, and keyboard-driven workflow. Supports IMAP, POP3, NNTP, multiple accounts, powerful filtering, and a plugin system for extending functionality including S/MIME and GPG encryption. Popular with users who value a light, fast email client over modern feature-heavy alternatives.
+Claws Mail is a free, fast, lightweight email client for Windows and Linux with extensive plugin support, PGP encryption integration, and a highly configurable interface. Popular among privacy-conscious users and those on limited hardware.
 
 ---
 
 ## ❌ Problem: Claws Mail is hard to access
 
-- **Dated Interface** — Visual design reflects the software's long history
-- **Windows Port Quality** — Linux version more polished than Windows port
-- **Learning Curve** — Keyboard-driven design requires learning commands and shortcuts
-- **Modern Email Features** — Less support for HTML-rich emails and modern email conventions
+- **Dated Interface** — Visual design significantly older than modern email clients
+- **Linux-Primary Feel** — Windows version less polished and tested
+- **Steep Learning Curve** — Extensive configuration options overwhelming for casual users
+- **Limited HTML Email** — HTML rendering less capable than Thunderbird or commercial clients
 
 ---
 
@@ -121,7 +121,7 @@ Claws Mail is a free, open-source, fast, and lightweight email client for Window
 
 ---
 
-**Claws Mail Free Installer** — Claws Mail is a free, open-source, fast, and lightweight email client for Windows and Linux. Install without internet connection today!
+**Claws Mail Free Installer** — Claws Mail is a free, fast, lightweight email client for Windows and Linux with extensive plugin support, PGP encryption integration, and a highly configurable interface. Install without internet connection today!
 
 <div align="center">
 
